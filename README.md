@@ -7,6 +7,10 @@
 ## Description
 A webapp made using the Angular2 javaScript framework that allows users (e.g., a coach of a high school basketball team) to log in via their google accounts and then create teams, players, games, and track statistics for these objects. Statsketball also allows users (even when not logged in) to view other users' teams and statistics (but not edit them).
 
+## Set Up
+
+This app is live at [https://statsketball-27ff5.firebaseapp.com](https://statsketball-27ff5.firebaseapp.com)
+
 ## User stories
 - [x] As a user, I'd like to create a basketball team
 - [x] As a user, I'd like to create a player
